@@ -1,7 +1,48 @@
 nombre,poblacion,superficie,continente
-Argentina,45376763,2780400,América
-Japón,125800000,377975,Asia
 Brasil,213993437,8515767,América
+Chile,19116209,756102,América
+Colombia,51049498,1141748,América
+México,130262216,1964375,América
+Perú,33359418,1285216,América
+Venezuela,28301696,916445,América
+Ecuador,18001000,283561,América
+Bolivia,12079472,1098581,América
+Paraguay,7353038,406752,América
+Uruguay,3473730,176215,América
+Estados Unidos,331893745,9833520,América
+Canadá,38155012,9984670,América
+Cuba,11256372,109884,América
 Alemania,83149300,357022,Europa
-Egipto,102000000,1001450,África
+Francia,68042591,551695,Europa
+España,47450795,505990,Europa
+Italia,59554023,301340,Europa
+Portugal,10290103,92212,Europa
+Polonia,37840001,312685,Europa
+Países Bajos,17618299,41543,Europa
+Suecia,10452326,450295,Europa
+Noruega,5421241,385207,Europa
+Grecia,10432481,131957,Europa
+Japón,125800000,377975,Asia
+China,1412600000,9596960,Asia
+India,1380004385,3287263,Asia
+Indonesia,276361783,1904569,Asia
+Pakistán,220892331,881913,Asia
+Corea del Sur,51709098,100210,Asia
+Arabia Saudita,35013414,2149690,Asia
+Turquía,84339067,783562,Asia
+Vietnam,97338579,331212,Asia
+Tailandia,71601103,513120,Asia
+Nigeria,211400708,923768,África
+Etiopía,117876227,1104300,África
+Egipto,102334404,1002450,África
+República Democrática del Congo,101780263,2344858,África
+Tanzania,61498437,945087,África
+Kenia,54985698,580367,África
+Sudáfrica,60041994,1219090,África
+Ghana,32395450,238533,África
+Marruecos,36910560,446550,África
 Australia,25687041,7692024,Oceanía
+Nueva Zelanda,5123932,270467,Oceanía
+Papúa Nueva Guinea,9119386,462840,Oceanía
+Argentina,45000000,7000000,Planetavegueta
+ejemplo,777,777,América
