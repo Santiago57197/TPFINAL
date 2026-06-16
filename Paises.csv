@@ -1,7 +1,32 @@
 nombre,poblacion,superficie,continente
 Argentina,45376763,2780400,América
 Japón,125800000,377975,Asia
+<<<<<<< Updated upstream
 Brasil,213993437,8515767,América
 Alemania,83149300,357022,Europa
 Egipto,102000000,1001450,África
 Australia,25687041,7692024,Oceanía
+=======
+China,1412600000,9596960,Asia
+India,1380004385,3287263,Asia
+Indonesia,276361783,1904569,Asia
+Pakistán,220892331,881913,Asia
+Corea del Sur,51709098,100210,Asia
+Arabia Saudita,35013414,2149690,Asia
+Turquía,84339067,783562,Asia
+Vietnam,97338579,331212,Asia
+Tailandia,71601103,513120,Asia
+Nigeria,211400708,923768,África
+Etiopía,117876227,1104300,África
+Egipto,102334404,1002450,África
+República Democrática del Congo,101780263,2344858,África
+Tanzania,61498437,945087,África
+Kenia,54985698,580367,África
+Sudáfrica,60041994,1219090,África
+Ghana,32395450,238533,África
+Marruecos,36910560,446550,África
+Australia,25687041,7692024,Oceanía
+Nueva Zelanda,5123932,270467,Oceanía
+Papúa Nueva Guinea,9119386,462840,Oceanía
+Argentina,46735004,3761274,América
+>>>>>>> Stashed changes
